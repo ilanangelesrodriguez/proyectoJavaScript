@@ -1,0 +1,21 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "This is my first Node project",
+  "main": "index.js",
+  "scripts": {
+    "Start":"node index.js",
+    "Saludar": "node holaMundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilanangelesrodriguez/proyectoNode.git"
+  },
+  "author": "Ilan Nestor Angeles Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilanangelesrodriguez/proyectoNode/issues"
+  },
+  "homepage": "https://github.com/ilanangelesrodriguez/proyectoNode#readme"
+}
