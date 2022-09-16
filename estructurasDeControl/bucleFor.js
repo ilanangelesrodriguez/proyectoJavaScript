@@ -12,7 +12,7 @@ for(let i=0;i<10;i++){
     console.log(i)
 }
 const lista=[7,3,5,9,6,2,4,1,8,6];
-var x=a.length;
+var x=lista.length;
 console.log(x);
 for(let i=0;i<x;i=i+1){
     console.log(lista[i]*2)
