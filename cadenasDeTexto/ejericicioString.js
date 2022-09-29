@@ -20,5 +20,5 @@ let estudianteMinus=estudiante.toLowerCase();
 let nLetras=estudiante.length;
 let letra1=nombres.charAt(0);
 let letraN=estudiante[nLetras-1];
-let sinEspacios=estudiante.trim();
+let sinEspacios=estudiante.replace(/ /g, "");
 let palabra=estudiante.includes(nombres);
