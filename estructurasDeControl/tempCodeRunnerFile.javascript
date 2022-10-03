@@ -1,0 +1,1 @@
+var valor=prompt("Elige un valor");
